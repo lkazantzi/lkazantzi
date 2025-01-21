@@ -127,7 +127,7 @@ redirect_from:
       <p style="color:blue;">Soft Skills</p>
     </div>
     <div class="col">
-      Project Planning, Multitasking, Research, Analytical Thinking, Problem-solving & Computer Literacy
+      Project Planning, Customer-Communication, Multitasking, Research, Analytical Thinking, Problem-solving & Computer Literacy
     </div>
   </div>
 </div>
