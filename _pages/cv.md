@@ -116,7 +116,7 @@ redirect_from:
       <p style="color:blue;">Technical Skills & Tools</p>
     </div>
     <div class="col">
-      Hardware in the Loop, Object-Oriented Programming, Agile Methodologies, tortoiseSVN, Git, Jira, Jenkins, Microsoft Power BI, & Microsoft Office
+      Hardware in the Loop, Object-Oriented Programming, Agile Methodologies, tortoiseSVN, Git, Jira, Jenkins, Microsoft Power BI & Microsoft Office
     </div>
   </div>
 </div>
